@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+discord.py
+aiohttp
+=======
+discord.py
+aiohttp
+>>>>>>> 4f43e5a964fc79521861af71db5d5facabbca46a
